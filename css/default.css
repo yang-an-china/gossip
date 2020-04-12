@@ -787,6 +787,7 @@ properly.
 /* custom ----------------------------------------------------------*/
 .pmydefault 
 {
+    display:flex;
     color:#123456;
     font-family:MingLiU;
     font-size:20px;
