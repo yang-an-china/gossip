@@ -783,3 +783,13 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
+
+/* custom ----------------------------------------------------------*/
+.pmydefault 
+{
+    color:#123456;
+    font-family:MingLiU;
+    font-size:20px;
+    font-weight:bold;
+    line-height:5px;
+}
